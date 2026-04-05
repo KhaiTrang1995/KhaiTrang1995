@@ -22,8 +22,8 @@ ____    ____  __   _______ .___________.   .__   __.      ___      .___  ___.
 
 </div>
 
-<a href="https://Nguyen-Van-Chan.github.io/CV/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Nguyen-Van-Chan/nguyenvanchan123/blob/main/dino.gif" alt="nguyenvanchan123" style="max-width: 100%;"></a>
-
+<!--<a href="https://Nguyen-Van-Chan.github.io/CV/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Nguyen-Van-Chan/nguyenvanchan123/blob/main/dino.gif" alt="nguyenvanchan123" style="max-width: 100%;"></a>
+-->
 <p align="center"> <img src="https://github.com/Nguyen-Van-Chan/nguyenvanchan123/blob/main/khaict.svg" /> </p>
 <div align="center">
   
